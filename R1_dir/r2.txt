@@ -3,3 +3,4 @@ Adding first line to r2.txt
 =======
 Line one of r2.txt
 >>>>>>> R1
+First line from r2 branch
